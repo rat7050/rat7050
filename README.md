@@ -1,18 +1,18 @@
 # 💫 Hi 👋, I'm Ratnesh
-##🎓 B.Tech Student | Artificial Intelligence & Data Science
-##💡 Passionate about solving real-world problems using AI
-##🚀 Always exploring new technologies & building projects
+🎓 B.Tech Student | Artificial Intelligence & Data Science
+💡 Passionate about solving real-world problems using AI
+🚀 Always exploring new technologies & building projects
 
 Email Me 👉 ✉️ **ratneshkumar77659@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** Enter your tech here
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
-- 😄 **Pronouns:** Imran Sir
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+-🔭 **I’m currently working on: Data Analytics & AI-based projects (ETL pipelines, dashboards, and real-world problem solving)
+🌱 **I’m currently learning: Artificial Intelligence, Data Science, SQL, Python, and Data Engineering concepts
+👯 **I’m looking to collaborate on: AI/Data Science projects, especially real-world problem-solving and innovative ideas
+🤔 **I’m looking for help with: Advanced AI models, scalable data pipelines, and industry-level project building
+💬 **Ask me about: Data Analytics, SQL, Python, AI basics, and project building
+📫 **How to reach me: ratneshkumar77659@gmail.com
+😄 **Pronouns:Vinu 
+⚡ **Fun fact: I don’t just love tech… I live it. 🚀
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Ratneshkumar7050) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ratn_esh.kumar_07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ratnesh-kumar-692376338) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ratneshkumar77659@gmail.com) 
